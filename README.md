@@ -11,4 +11,4 @@ SimpleSync is designed to be portable to use it on different microcontrollers an
 - STM32F373
   - USART
 
-More ST Cortex-M controllers will follow but if you find this code useful share your port and I will include it here.
+More ST Cortex-M controllers will follow but if you find this code useful, share your port and I will include it here.
