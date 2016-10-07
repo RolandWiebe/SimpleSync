@@ -1,5 +1,5 @@
 # SimpleSync
-Simple synchronization protocol between two microcontrollers
+Simple synchronization protocol between two microcontrollers using FreeRTOS
 
 It is designed to synchonize single variables as also complex structures through an pheripheral interface to another microcontroller. It is working in Master-Slave configuration and the master can be configured to synchronize the configured items cyclic or just once. The data is directly put to the linked variable, so there is no need for additional activities. Just configure it and have your data synchornized on both controllers. Optionally a callback function can be set in Master and Slave to react on the event of data update. 
 
